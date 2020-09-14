@@ -1,0 +1,27 @@
+{
+  "name": "Clyde20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "canvas": "^2.6.1",
+    "config.json": "0.0.4",
+    "discord.js": "^12.3.0",
+    "duck-duck-scrape": "^1.0.3",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1"
+  }
+}
